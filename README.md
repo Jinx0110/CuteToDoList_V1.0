@@ -1,4 +1,4 @@
 # Simple To Do List Desktop Application
 
-- Visual Studio
+- IDE: Visual Studio
 - Language: C#
