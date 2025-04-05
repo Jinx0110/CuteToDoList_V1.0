@@ -1,1 +1,1 @@
-# CuteToDoList_Practice
+# Simple To Do List Desktop Application
